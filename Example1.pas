@@ -1,3 +1,8 @@
+{ Example Programs developed in retro computing blog series 			} 
+{ https://www.benjaminpritchard.org/adventures-in-retro-computing/ 		}
+{ Benjamn Pritchard														}
+{ 2/16/2019																} 
+
 uses dos, crt;
 
 const UPPER_LEFT_BOX_SINGLE  = 'Ú';  {218;}
